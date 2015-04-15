@@ -1,8 +1,8 @@
 # TheNumbersOfMagic
-Module to find files without extensions using Magic Numbers. For 3.X
+Module to find files without extensions using Magic Numbers. For Python 3.X
 
 Magic Numbers implemented: 
-                  25504446:PDF Document or Adobe Portable Document Format and Forms Document file
+                 <li> 25504446:PDF Document or Adobe Portable Document Format and Forms Document file
                   424d:Bitmap graphic
                   ffd8":JPEG graphic file
                   cafebabe:Class File
@@ -24,7 +24,7 @@ Magic Numbers implemented:
                   3026b2758e66cf:Windows Audio file
                   504b0304:PKZip
                   1f8b08:GZip
-                  7573746172:Tar file
+                  7573746172:Tar file</li>
                   d0cf11e0a1b11ar1:Microsoft Installer
                   4c01:Object Code File
                   4d5a":"Dynamic Library
